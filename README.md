@@ -10,6 +10,6 @@
 </ul>
 <br>
 <div>
-  <div>Para visualizar <a href="[https://alerzendee.github.io/Alura-Start-Project-/](https://alerzendee.github.io/aluraCombo/)">clique aqui.</a></div>
+  <div>Para visualizar <a href="https://alerzendee.github.io/aluraCombo/">clique aqui.</a></div>
 </div>
 
